@@ -1,2 +1,3 @@
-My Second Project, Using GitHUB Desktop
+My Second Project, Using Github Desktop
+Hello world!
 
